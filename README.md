@@ -1,6 +1,6 @@
 #Eliziéle Paroli :hearts:
 
-Sou uma Geogeek :earth_americas:
+:earth_americas: Sou uma Geogeek 
 
 :clock730: Trabalho como Analista em Geoprocessamento
 
