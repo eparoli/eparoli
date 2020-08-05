@@ -1,16 +1,16 @@
-### Hi there 👋
+#Eliziéle Paroli :hearts:
 
-<!--
-**eparoli/eparoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma Geogeek :earth_americas:
 
-Here are some ideas to get you started:
+:clock730: Trabalho como Analista em Geoprocessamento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:books: Estou aprendendo análise de dados com python e r
+
+💬 Posso te ajudar com ArcGIS, QGIS, mapas no geral, e com um pouco de análise nessas linguagens
+
+🌱 Eu gosto de jogos de escape e lógica
+
+📫 Entre em contato comigo: (https://www.linkedin.com/in/eparoli/) (mailto:eparoli00@gmail.com)
+:rocket:
+
+
