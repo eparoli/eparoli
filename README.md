@@ -4,7 +4,7 @@
 
 :clock730: Trabalho como Analista em Geoprocessamento
 
-:books: Estou aprendendo análise de dados com python e r
+:books: Estou aprendendo análise de dados com python
 
 💬 Posso te ajudar com ArcGIS, QGIS, mapas no geral, e com um pouco de análise nessas linguagens
 
