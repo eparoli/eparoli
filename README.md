@@ -2,7 +2,7 @@
 
 :earth_americas: Sou uma Geogeek 
 
-:clock730: Trabalho como Analista em Geoprocessamento
+:clock730: Trabalho como Analista de Inteligência de Mercado
 
 :books: Estou aprendendo análise de dados com python
 
